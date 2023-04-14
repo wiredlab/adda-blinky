@@ -6,7 +6,10 @@
 
   (title_block
     (title "AD-DA blinky")
+    (date "2023-04-07")
+    (rev "v0.1")
     (company "Valpo ECE")
+    (comment 1 "Dan White")
   )
 
   (lib_symbols
@@ -713,7 +716,6 @@
       )
     )
   )
-
 
   (junction (at 140.335 140.97) (diameter 0) (color 0 0 0 0)
     (uuid 13ed03e4-4574-4db5-b5bf-af8dc7d44b1e)
