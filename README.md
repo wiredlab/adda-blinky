@@ -21,7 +21,7 @@ The data is also immediately applied to a digital-to-analog converter (DAC) at t
 
 All of the features are implemented using an ATtiny1616 and its internal peripherals.
 
-
+[Schematic](docs/adda-blinky.pdf)
 
 ![Board render](docs/board-render-v0.1.png)
 
